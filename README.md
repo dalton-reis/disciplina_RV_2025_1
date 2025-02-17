@@ -1,7 +1,7 @@
 
-[AVA3]: <https://ava3.furb.br/course/view.php?id=43860&section=0> "AVA3"  
-[AVA3 Equipes]: <https://ava3.furb.br/mod/forum/view.php?id=991953> "AVA3 Equipes"  
-[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=43860&section=1> "Plano de Ensino"  
+[AVA3]: <https://ava3.furb.br/course/view.php?id=47759&section=0> "AVA3"  
+[AVA3 Equipes]: <https://ava3.furb.br/mod/forum/view.php?id=1101146> "AVA3 Equipes"  
+[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=47759&section=1> "Plano de Ensino"  
 [Cronograma]: <./cronograma.md> "Cronograma"  
 
 # Disciplina de Realidade Virtual  
